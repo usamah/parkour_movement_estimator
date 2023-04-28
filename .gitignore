@@ -1,0 +1,5 @@
+#Unprocessed data folder
+unprocessed_data/
+
+#iPython notebook checkpoints
+.ipynb_checkpoints/
