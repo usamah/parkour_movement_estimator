@@ -3,3 +3,6 @@ unprocessed_data/
 
 #iPython notebook checkpoints
 .ipynb_checkpoints/
+
+#Frame generated folder
+frames_*/

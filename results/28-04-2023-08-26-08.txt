@@ -1,0 +1,252 @@
+#############################################################
+Video 1, standing_plyo_stick26.mp4
+###Repetiton Counter###
+double_catpass=0
+running_arm_jump=1
+standing_plyo_stick=0
+###Frames###
+double_catpass=6
+running_arm_jump=51
+standing_plyo_stick=5
+###Logger###
+[['running_arm_jump', 0.59, 0.99]]
+Readable Frames: 62/64
+Estimate: "running_arm_jump" with 51/64 frames.
+#############################################################
+Video 2, running_arm_jump47.mp4
+###Repetiton Counter###
+double_catpass=0
+running_arm_jump=1
+standing_plyo_stick=0
+###Frames###
+double_catpass=5
+running_arm_jump=34
+standing_plyo_stick=3
+###Logger###
+[['running_arm_jump', 0.91, 0.99]]
+Readable Frames: 42/42
+Estimate: "running_arm_jump" with 34/42 frames.
+#############################################################
+Video 3, running_arm_jump52.mp4
+###Repetiton Counter###
+double_catpass=0
+running_arm_jump=1
+standing_plyo_stick=0
+###Frames###
+double_catpass=2
+running_arm_jump=45
+standing_plyo_stick=6
+###Logger###
+[['running_arm_jump', 0.56, 0.99]]
+Readable Frames: 53/53
+Estimate: "running_arm_jump" with 45/53 frames.
+#############################################################
+Video 4, running_arm_jump50.mp4
+###Repetiton Counter###
+double_catpass=1
+running_arm_jump=0
+standing_plyo_stick=0
+###Frames###
+double_catpass=84
+running_arm_jump=7
+standing_plyo_stick=16
+###Logger###
+[['double_catpass', 0.89, 0.99]]
+Readable Frames: 107/108
+Estimate: "double_catpass" with 84/108 frames.
+#############################################################
+Video 5, double_catpass29.mp4
+###Repetiton Counter###
+double_catpass=1
+running_arm_jump=0
+standing_plyo_stick=0
+###Frames###
+double_catpass=24
+running_arm_jump=8
+standing_plyo_stick=3
+###Logger###
+[['double_catpass', 0.71, 0.99]]
+Readable Frames: 35/37
+Estimate: "double_catpass" with 24/37 frames.
+#############################################################
+Video 6, standing_plyo_stick25.mp4
+###Repetiton Counter###
+double_catpass=0
+running_arm_jump=1
+standing_plyo_stick=1
+###Frames###
+double_catpass=1
+running_arm_jump=18
+standing_plyo_stick=28
+###Logger###
+[['running_arm_jump', 0.49, 0.99], ['standing_plyo_stick', 1.37, 0.99]]
+Readable Frames: 47/47
+Estimate: "standing_plyo_stick" with 28/47 frames.
+#############################################################
+Video 7, double_catpass7.mp4
+###Repetiton Counter###
+double_catpass=1
+running_arm_jump=0
+standing_plyo_stick=0
+###Frames###
+double_catpass=21
+running_arm_jump=7
+standing_plyo_stick=3
+###Logger###
+[['double_catpass', 0.91, 0.99]]
+Readable Frames: 31/33
+Estimate: "double_catpass" with 21/33 frames.
+#############################################################
+Video 8, standing_plyo_stick32.mp4
+###Repetiton Counter###
+double_catpass=0
+running_arm_jump=0
+standing_plyo_stick=0
+###Frames###
+double_catpass=26
+running_arm_jump=14
+standing_plyo_stick=28
+###Logger###
+[]
+Readable Frames: 68/68
+Estimate: "standing_plyo_stick" with 28/68 frames.
+#############################################################
+Video 9, standing_plyo_stick16.mp4
+###Repetiton Counter###
+double_catpass=0
+running_arm_jump=1
+standing_plyo_stick=1
+###Frames###
+double_catpass=0
+running_arm_jump=29
+standing_plyo_stick=17
+###Logger###
+[['running_arm_jump', 0.69, 0.99], ['standing_plyo_stick', 1.67, 1.0]]
+Readable Frames: 46/55
+Estimate: "running_arm_jump" with 29/55 frames.
+#############################################################
+Video 10, double_catpass16.mp4
+###Repetiton Counter###
+double_catpass=1
+running_arm_jump=0
+standing_plyo_stick=0
+###Frames###
+double_catpass=19
+running_arm_jump=17
+standing_plyo_stick=3
+###Logger###
+[['double_catpass', 1.04, 0.99]]
+Readable Frames: 39/40
+Estimate: "double_catpass" with 19/40 frames.
+#############################################################
+Video 11, running_arm_jump26.mp4
+###Repetiton Counter###
+double_catpass=0
+running_arm_jump=1
+standing_plyo_stick=0
+###Frames###
+double_catpass=1
+running_arm_jump=79
+standing_plyo_stick=3
+###Logger###
+[['running_arm_jump', 0.49, 1.0]]
+Readable Frames: 83/83
+Estimate: "running_arm_jump" with 79/83 frames.
+#############################################################
+Video 12, double_catpass50.mp4
+###Repetiton Counter###
+double_catpass=1
+running_arm_jump=1
+standing_plyo_stick=0
+###Frames###
+double_catpass=24
+running_arm_jump=23
+standing_plyo_stick=3
+###Logger###
+[['running_arm_jump', 0.42, 0.99], ['double_catpass', 1.27, 0.99]]
+Readable Frames: 50/50
+Estimate: "double_catpass" with 24/50 frames.
+#############################################################
+Video 13, double_catpass19.mp4
+###Repetiton Counter###
+double_catpass=1
+running_arm_jump=0
+standing_plyo_stick=0
+###Frames###
+double_catpass=21
+running_arm_jump=7
+standing_plyo_stick=4
+###Logger###
+[['double_catpass', 0.94, 0.99]]
+Readable Frames: 32/33
+Estimate: "double_catpass" with 21/33 frames.
+#############################################################
+Video 14, double_catpass10.mp4
+###Repetiton Counter###
+double_catpass=1
+running_arm_jump=0
+standing_plyo_stick=0
+###Frames###
+double_catpass=17
+running_arm_jump=11
+standing_plyo_stick=5
+###Logger###
+[['double_catpass', 0.94, 1.0]]
+Readable Frames: 33/33
+Estimate: "double_catpass" with 17/33 frames.
+#############################################################
+Video 15, running_arm_jump24.mp4
+###Repetiton Counter###
+double_catpass=0
+running_arm_jump=0
+standing_plyo_stick=0
+###Frames###
+double_catpass=7
+running_arm_jump=26
+standing_plyo_stick=6
+###Logger###
+[]
+Readable Frames: 39/40
+Estimate: "running_arm_jump" with 26/40 frames.
+#############################################################
+Video 16, standing_plyo_stick33.mp4
+###Repetiton Counter###
+double_catpass=1
+running_arm_jump=0
+standing_plyo_stick=0
+###Frames###
+double_catpass=18
+running_arm_jump=25
+standing_plyo_stick=8
+###Logger###
+[['double_catpass', 0.82, 1.0]]
+Readable Frames: 51/52
+Estimate: "running_arm_jump" with 25/52 frames.
+#############################################################
+Video 17, running_arm_jump1.mp4
+###Repetiton Counter###
+double_catpass=0
+running_arm_jump=0
+standing_plyo_stick=0
+###Frames###
+double_catpass=14
+running_arm_jump=14
+standing_plyo_stick=4
+###Logger###
+[]
+Readable Frames: 32/32
+Estimate: "double_catpass" with 14/32 frames.
+#############################################################
+Video 18, standing_plyo_stick21.mp4
+###Repetiton Counter###
+double_catpass=1
+running_arm_jump=0
+standing_plyo_stick=0
+###Frames###
+double_catpass=16
+running_arm_jump=25
+standing_plyo_stick=16
+###Logger###
+[['double_catpass', 1.08, 0.99]]
+Readable Frames: 57/58
+Estimate: "running_arm_jump" with 25/58 frames.
