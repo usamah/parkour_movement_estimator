@@ -1,8 +1,7 @@
-#Unprocessed data folder
 unprocessed_data/
-
-#iPython notebook checkpoints
+data2/
 .ipynb_checkpoints/
-
-#Frame generated folder
 frames_*/
+
+tensorflow.ipynb
+.gitignore

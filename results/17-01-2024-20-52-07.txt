@@ -1,0 +1,252 @@
+#############################################################
+Video 1, standing_plyo_stick7.mp4
+###Repetition Counter###
+double_catpass=0
+running_arm_jump=0
+standing_plyo_stick=0
+###Frames###
+double_catpass=4
+running_arm_jump=10
+standing_plyo_stick=42
+###Logger###
+[]
+Readable Frames: 56/56
+Estimate: "standing_plyo_stick" with 42/56 frames.
+#############################################################
+Video 2, running_arm_jump47.mp4
+###Repetition Counter###
+double_catpass=0
+running_arm_jump=0
+standing_plyo_stick=0
+###Frames###
+double_catpass=4
+running_arm_jump=32
+standing_plyo_stick=6
+###Logger###
+[]
+Readable Frames: 42/42
+Estimate: "running_arm_jump" with 32/42 frames.
+#############################################################
+Video 3, running_arm_jump52.mp4
+###Repetition Counter###
+double_catpass=0
+running_arm_jump=0
+standing_plyo_stick=0
+###Frames###
+double_catpass=22
+running_arm_jump=31
+standing_plyo_stick=0
+###Logger###
+[]
+Readable Frames: 53/53
+Estimate: "running_arm_jump" with 31/53 frames.
+#############################################################
+Video 4, running_arm_jump50.mp4
+###Repetition Counter###
+double_catpass=0
+running_arm_jump=0
+standing_plyo_stick=0
+###Frames###
+double_catpass=43
+running_arm_jump=64
+standing_plyo_stick=0
+###Logger###
+[]
+Readable Frames: 107/108
+Estimate: "running_arm_jump" with 64/108 frames.
+#############################################################
+Video 5, double_catpass16.mp4
+###Repetition Counter###
+double_catpass=0
+running_arm_jump=0
+standing_plyo_stick=0
+###Frames###
+double_catpass=30
+running_arm_jump=2
+standing_plyo_stick=7
+###Logger###
+[]
+Readable Frames: 39/40
+Estimate: "double_catpass" with 30/40 frames.
+#############################################################
+Video 6, standing_plyo_stick68.mp4
+###Repetition Counter###
+double_catpass=0
+running_arm_jump=0
+standing_plyo_stick=0
+###Frames###
+double_catpass=14
+running_arm_jump=2
+standing_plyo_stick=29
+###Logger###
+[]
+Readable Frames: 45/46
+Estimate: "standing_plyo_stick" with 29/46 frames.
+#############################################################
+Video 7, double_catpass44.mp4
+###Repetition Counter###
+double_catpass=0
+running_arm_jump=0
+standing_plyo_stick=0
+###Frames###
+double_catpass=28
+running_arm_jump=4
+standing_plyo_stick=0
+###Logger###
+[]
+Readable Frames: 32/32
+Estimate: "double_catpass" with 28/32 frames.
+#############################################################
+Video 8, standing_plyo_stick10.mp4
+###Repetition Counter###
+double_catpass=0
+running_arm_jump=0
+standing_plyo_stick=0
+###Frames###
+double_catpass=21
+running_arm_jump=1
+standing_plyo_stick=63
+###Logger###
+[]
+Readable Frames: 85/87
+Estimate: "standing_plyo_stick" with 63/87 frames.
+#############################################################
+Video 9, standing_plyo_stick39.mp4
+###Repetition Counter###
+double_catpass=0
+running_arm_jump=0
+standing_plyo_stick=0
+###Frames###
+double_catpass=3
+running_arm_jump=6
+standing_plyo_stick=44
+###Logger###
+[]
+Readable Frames: 53/54
+Estimate: "standing_plyo_stick" with 44/54 frames.
+#############################################################
+Video 10, double_catpass25.mp4
+###Repetition Counter###
+double_catpass=0
+running_arm_jump=0
+standing_plyo_stick=0
+###Frames###
+double_catpass=45
+running_arm_jump=2
+standing_plyo_stick=0
+###Logger###
+[]
+Readable Frames: 47/48
+Estimate: "double_catpass" with 45/48 frames.
+#############################################################
+Video 11, running_arm_jump25.mp4
+###Repetition Counter###
+double_catpass=0
+running_arm_jump=0
+standing_plyo_stick=0
+###Frames###
+double_catpass=35
+running_arm_jump=18
+standing_plyo_stick=0
+###Logger###
+[]
+Readable Frames: 53/53
+Estimate: "double_catpass" with 35/53 frames.
+#############################################################
+Video 12, double_catpass67.mp4
+###Repetition Counter###
+double_catpass=0
+running_arm_jump=0
+standing_plyo_stick=0
+###Frames###
+double_catpass=52
+running_arm_jump=2
+standing_plyo_stick=8
+###Logger###
+[]
+Readable Frames: 62/62
+Estimate: "double_catpass" with 52/62 frames.
+#############################################################
+Video 13, double_catpass29.mp4
+###Repetition Counter###
+double_catpass=0
+running_arm_jump=0
+standing_plyo_stick=0
+###Frames###
+double_catpass=25
+running_arm_jump=1
+standing_plyo_stick=9
+###Logger###
+[]
+Readable Frames: 35/37
+Estimate: "double_catpass" with 25/37 frames.
+#############################################################
+Video 14, double_catpass2.mp4
+###Repetition Counter###
+double_catpass=0
+running_arm_jump=0
+standing_plyo_stick=0
+###Frames###
+double_catpass=25
+running_arm_jump=4
+standing_plyo_stick=7
+###Logger###
+[]
+Readable Frames: 36/36
+Estimate: "double_catpass" with 25/36 frames.
+#############################################################
+Video 15, running_arm_jump22.mp4
+###Repetition Counter###
+double_catpass=0
+running_arm_jump=0
+standing_plyo_stick=0
+###Frames###
+double_catpass=42
+running_arm_jump=5
+standing_plyo_stick=12
+###Logger###
+[]
+Readable Frames: 59/60
+Estimate: "double_catpass" with 42/60 frames.
+#############################################################
+Video 16, standing_plyo_stick11.mp4
+###Repetition Counter###
+double_catpass=0
+running_arm_jump=0
+standing_plyo_stick=0
+###Frames###
+double_catpass=7
+running_arm_jump=1
+standing_plyo_stick=34
+###Logger###
+[]
+Readable Frames: 42/42
+Estimate: "standing_plyo_stick" with 34/42 frames.
+#############################################################
+Video 17, running_arm_jump23.mp4
+###Repetition Counter###
+double_catpass=0
+running_arm_jump=0
+standing_plyo_stick=0
+###Frames###
+double_catpass=14
+running_arm_jump=36
+standing_plyo_stick=0
+###Logger###
+[]
+Readable Frames: 50/58
+Estimate: "running_arm_jump" with 36/58 frames.
+#############################################################
+Video 18, standing_plyo_stick60.mp4
+###Repetition Counter###
+double_catpass=0
+running_arm_jump=0
+standing_plyo_stick=0
+###Frames###
+double_catpass=17
+running_arm_jump=2
+standing_plyo_stick=32
+###Logger###
+[]
+Readable Frames: 51/52
+Estimate: "standing_plyo_stick" with 32/52 frames.
